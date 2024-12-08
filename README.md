@@ -28,7 +28,7 @@ Antes de utilizar los ejemplos de este repositorio, asegúrate de contar con:
 
 ## Cómo empezar
 
-- **Clona este repositorio:**
+- **Clona este repositorio :**
 
 1. Opción 1: 
    ```bash
