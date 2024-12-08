@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z\\Downloads\\SDK\\OneDrive_2024-10-27 (1)\\SDK\u00B4s WORK ON\\inicioComercialSDK_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC34476-01DB-4EE7-9F02-22F239596730}|inicioComercialSDK\\inicioComercialSDK.csproj|c:\\users\\z\\downloads\\sdk\\onedrive_2024-10-27 (1)\\sdk\u00B4s work on\\iniciocomercialsdk_csharp\\iniciocomercialsdk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FC34476-01DB-4EE7-9F02-22F239596730}|inicioComercialSDK\\inicioComercialSDK.csproj|solutionrelative:iniciocomercialsdk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Z\\Downloads\\SDK\\OneDrive_2024-10-27 (1)\\SDK\u00B4s WORK ON\\inicioComercialSDK_CSharp\\inicioComercialSDK\\Form1.cs",
+              "RelativeDocumentMoniker": "inicioComercialSDK\\Form1.cs",
+              "ToolTip": "C:\\Users\\Z\\Downloads\\SDK\\OneDrive_2024-10-27 (1)\\SDK\u00B4s WORK ON\\inicioComercialSDK_CSharp\\inicioComercialSDK\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "inicioComercialSDK\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:47:06.772Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
